@@ -1,0 +1,81 @@
+/* common styling for all the pages   */
+
+.navbar{
+    background-color:rgb(106, 208, 242);
+   height: 60px;
+    
+}
+.navbar-brand > img{
+   height: 50px;
+}
+
+#containerhome > #homeimg
+{
+   width: 100%;
+}
+#homejumbo{
+   background-color: rgb(96, 182, 235);
+   margin-top: -50px;
+   
+}
+
+#downfooter{
+   background-color: rgb(107, 196, 225);
+   color: black;
+}
+#livingfooter{
+   color: black;
+}
+#privacy > a{
+   color: black;
+}
+/*---------------------------------------------*/
+
+/* home page----*/
+#corousel-container{
+   margin-top: -85px;
+}
+
+
+
+
+/*   -------------------*/
+
+
+/* products-----------------*/
+
+.products{
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-bottom: 40px;
+}
+
+.prod-d-price{
+   position: absolute;
+   left: 180px;
+}
+.btn-dark{
+   position: absolute;
+   left: 90px;
+   top: 280px;
+}
+.prod-a-price{
+   position: absolute;
+   left: 10px;
+}
+/*--------------*/
+
+/*Item Form--------*/
+
+.item-form{
+   margin: 30px;
+   background-color:rgb(116, 200, 228) ;
+}
+
+#item-form-btn{
+   position: absolute;
+   left:500px;
+   bottom: 20px;
+   background-color:rgb(103, 193, 223) ;
+   border: 2px solid black;
+}
